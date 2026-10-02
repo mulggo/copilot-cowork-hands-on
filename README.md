@@ -1,5 +1,7 @@
 # Cowork Hands-On
 
+[한국어](README.ko.md)
+
 Delegate real work to Copilot Cowork — hand it a document, let it reason over the content, and have it take action on your behalf while you get on with something else.
 
 ---
